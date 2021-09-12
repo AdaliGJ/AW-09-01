@@ -431,4 +431,5 @@ var Page = function (_React$Component8) {
 
 var appRoot = document.getElementById('app');
 
+
 ReactDOM.render(React.createElement(Content, null), appRoot);
