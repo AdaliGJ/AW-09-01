@@ -179,4 +179,4 @@ class Page extends React.Component{
 
 var  appRoot = document.getElementById('app');
  
-ReactDOM.render(<Content/>, appRoot);
+ReactDOM.render(<Page/>, appRoot);
