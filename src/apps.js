@@ -179,4 +179,6 @@ class Page extends React.Component{
 
 var  appRoot = document.getElementById('app');
  
-ReactDOM.render(<SideBar/>, appRoot);
+
+ReactDOM.render(<Content/>, appRoot);
+
